@@ -347,6 +347,24 @@ namespace Icebreaker.Properties {
                 return ResourceManager.GetString("TourWelcomeBodyText", resourceCulture);
             }
         }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Every week, I&apos;ll pair you with someone new. If you have the inclination that week, you can meet up--grab a lunch, or a call if you&apos;re in different locations. Look out for another message in which I&apos;ll pair you with your first match..
+        /// </summary>
+        public static string TourWelcomeBodyText2 {
+            get {
+                return ResourceManager.GetString("TourWelcomeBodyText2", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Every week, I&apos;ll pair you with someone new. If you have the inclination that week, you can meet up--grab a lunch, or a call if you&apos;re in different locations. Look out for another message in which I&apos;ll pair you with your first match..
+        /// </summary>
+        public static string TourWelcomeBodyText3 {
+            get {
+                return ResourceManager.GetString("TourWelcomeBodyText3", resourceCulture);
+            }
+        }
         
         /// <summary>
         ///   Looks up a localized string similar to Make new friends and build community with them.
