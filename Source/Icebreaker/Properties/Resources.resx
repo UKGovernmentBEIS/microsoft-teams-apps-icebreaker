@@ -230,8 +230,16 @@
     <comment>This is the tour match task module header text</comment>
   </data>
   <data name="TourWelcomeBodyText" xml:space="preserve">
-    <value>**DEV: This text come from RESX generated at build time** Coffee Connect is a voluntary, fun and informal way to widen your network and make new connetions with colleagues. Every four weeks you'll be randomly paired with a colleague, to help you meet and learn about the people you work with. It's a win-win situation. Matches are made via the Icebreaker app you're using now. Location is no limiation - Coffee Connect face to face, or via phone, Teams, or any other way you prepfer if you're in different places.</value>
+    <value>Coffee Connect is a voluntary, fun and informal way to widen your network and make new connetions with colleagues.</value>
     <comment>This is the tour welcome body text</comment>
+  </data>
+  <data name="TourWelcomeBodyText2" xml:space="preserve">
+    <value>Every four weeks you’ll be randomly paired with a colleague, to help you meet and learn about the people you work with. It's a win-win situation. Matches are made via the Icebreaker app you’re using now.</value>
+    <comment>This is the tour welcome body text 2nd paragraph</comment>
+  </data>
+  <data name="TourWelcomeBodyText3" xml:space="preserve">
+    <value>Location is no limitation - Coffee Connect face to face, or via phone, Teams, or any other way you prepfer if you're in different places.</value>
+    <comment>This is the tour welcome body text 3rd paragraph</comment>
   </data>
   <data name="TourWelcomeHeaderText" xml:space="preserve">
     <value>How does Coffee Connect work?</value>
