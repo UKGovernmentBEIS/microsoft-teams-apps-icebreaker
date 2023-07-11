@@ -226,7 +226,7 @@
     <comment>This is the tour match task module body text</comment>
   </data>
   <data name="TourMatchesBodyText2" xml:space="preserve">
-    <value>You can pause your Coffee Connect mathes whenever you want to. Just click the 'Pause all matches' button in one of your introduction messages at any time. You'll stay part of the Coffee Connect network but you won't be matched again until you're ready.</value>
+    <value>You can pause your Coffee Connect matches whenever you want to. Just click the 'Pause all matches' button in one of your introduction messages at any time. You'll stay part of the Coffee Connect network but you won't be matched again until you're ready.</value>
     <comment>This is the tour match task module body text</comment>
   </data>
   <data name="TourMatchesBodyText3" xml:space="preserve">
@@ -254,11 +254,11 @@
     <comment>This is the tour match task module header text</comment>
   </data>
   <data name="TourWelcomeBodyText" xml:space="preserve">
-    <value>Coffee Connect is a voluntary, fun and informal way to widen your network and make new connetions with colleagues.</value>
+    <value>Coffee Connect is a voluntary, fun and informal way to widen your network and make new connections with colleagues.</value>
     <comment>This is the tour welcome body text</comment>
   </data>
   <data name="TourWelcomeBodyText2" xml:space="preserve">
-    <value>Every four weeks you’ll be randomly paired with a colleague, to help you meet and learn about the people you work with. It's a win-win situation. Matches are made via the Icebreaker app you’re using now.</value>
+    <value>Every four weeks you’ll be randomly paired with a colleague to help you meet and learn about the people you work with. It's a win-win situation. Matches are made via the Icebreaker app you’re using now.</value>
     <comment>This is the tour welcome body text 2nd paragraph</comment>
   </data>
   <data name="TourWelcomeBodyText3" xml:space="preserve">

@@ -53,7 +53,7 @@ namespace Icebreaker.Helpers.AdaptiveCards
             htmlUrl = Uri.EscapeDataString(htmlUrl);
             tourTitle = Uri.EscapeDataString(tourTitle);
             return
-                $"https://teams.microsoft.com/l/task/{appId}?url={htmlUrl}&height=533px&width=600px&title={tourTitle}";
+                $"https://teams.microsoft.com/l/task/{appId}?url={htmlUrl}&height=600px&width=600px&title={tourTitle}";
         }
 
         /// <summary>
