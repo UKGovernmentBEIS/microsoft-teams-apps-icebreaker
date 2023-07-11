@@ -18,15 +18,6 @@
             let queryParameters = GetQueryParameters();
             let currentTheme = queryParameters["theme"];
 
-            let intro = document.getElementById("introDiv")
-            let matches = document.getElementById("matchesDiv")
-            let yourInfo = document.getElementById("yourInfoDiv")
-            let optout = document.getElementById("optoutDiv")
-
-            matches.style.display = "none"
-            yourInfo.style.display = "none"
-            optout.style.display = "none"
-            
             var setTheme = function (theme) {
                 if (theme === "dark")
                     document.getElementById("themeCSS").className = "theme-dark";

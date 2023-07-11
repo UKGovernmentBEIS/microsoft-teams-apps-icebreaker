@@ -21,6 +21,24 @@ html {
     box-sizing: border-box;
 }
 
+#yourInfoDiv {
+    display: none;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    padding: 0 2rem 2rem 2rem;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+#optoutDiv {
+    display: none;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    padding: 0 2rem 2rem 2rem;
+    height: 100%;
+    box-sizing: border-box;
+}
+
 .textDiv {
     display: flex;
     flex-direction: column;
