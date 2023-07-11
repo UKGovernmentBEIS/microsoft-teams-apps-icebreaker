@@ -222,8 +222,32 @@
     <comment>This is the tour content page title text</comment>
   </data>
   <data name="TourMatchesBodyText" xml:space="preserve">
-    <value>You can pause your Coffee Connect mathes whenever you want to. Just click the 'Pause all matches' button in one of your introduction messages at any time. You'll stay part of the Coffee Connect network but you won't be matched again until you're ready. Pause your Coffee Connect account if you can't make matches for any reason - that way other members will only be paired with people who are available. When you're ready to take part again, all you have to do is click the 'Resume matches' button in the chat message that confirmed your account was paused.</value>
+    <value>Too busy at the moment? Out of the office?</value>
     <comment>This is the tour match task module body text</comment>
+  </data>
+  <data name="TourMatchesBodyText2" xml:space="preserve">
+    <value>You can pause your Coffee Connect mathes whenever you want to. Just click the 'Pause all matches' button in one of your introduction messages at any time. You'll stay part of the Coffee Connect network but you won't be matched again until you're ready.</value>
+    <comment>This is the tour match task module body text</comment>
+  </data>
+  <data name="TourMatchesBodyText3" xml:space="preserve">
+    <value>Please pause your Coffee Connect account if you can't make matches for any reason - that way other members will only be paired with people who are available. </value>
+    <comment>This is the tour match task module body text</comment>
+  </data>
+  <data name="TourMatchesBodyText4" xml:space="preserve">
+    <value>When you're ready to take part again, all you have to do is click the 'Resume matches' button in the chat message that confirmed your account was paused.</value>
+    <comment>This is the tour match task module body text</comment>
+  </data>
+    <data name="TourYourInfoHeaderText" xml:space="preserve">
+    <value>Your information</value>
+    <comment>This is the tour info module header text</comment>
+  </data>
+  <data name="TourYourInfoBodyText" xml:space="preserve">
+    <value>Icebreaker uses information from your account on our Departmental systems to include your details and the details of people you're paired when you're matched. No information on your matches is shared.</value>
+    <comment>This is the tour info module body text</comment>
+  </data>
+  <data name="TourYourInfoBodyText2" xml:space="preserve">
+    <value>To find out more, check the Coffee Connect privacy policy.</value>
+    <comment>This is the tour info module body text</comment>
   </data>
   <data name="TourMatchesHeaderText" xml:space="preserve">
     <value>Easily pause and resume matches</value>
@@ -240,6 +264,14 @@
   <data name="TourWelcomeBodyText3" xml:space="preserve">
     <value>Location is no limitation - Coffee Connect face to face, or via phone, Teams, or any other way you prepfer if you're in different places.</value>
     <comment>This is the tour welcome body text 3rd paragraph</comment>
+  </data>
+  <data name="TourOptoutHeaderText" xml:space="preserve">
+    <value>Want to opt out?</value>
+    <comment>This is the tour opt out module header</comment>
+  </data>
+  <data name="TourOptoutBodyText" xml:space="preserve">
+    <value>You can opt out of Coffee Connect completely at any time. All you have to do is leave the Icebreaker  Team - right click on the three dots to the right of the Team name, then select ‘Leave team’. You can rejoin whenever you’re ready, but you’ll have to sign up again.</value>
+    <comment>This is the tour opt out module header</comment>
   </data>
   <data name="TourWelcomeHeaderText" xml:space="preserve">
     <value>How does Coffee Connect work?</value>

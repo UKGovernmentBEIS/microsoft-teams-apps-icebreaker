@@ -329,6 +329,33 @@ namespace Icebreaker.Properties {
                 return ResourceManager.GetString("TourMatchesBodyText", resourceCulture);
             }
         }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Pause matches whenever you need. Too busy that week? Out of the office? No problem. Just click the button at anytime..
+        /// </summary>
+        public static string TourMatchesBodyText2 {
+            get {
+                return ResourceManager.GetString("TourMatchesBodyText2", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Pause matches whenever you need. Too busy that week? Out of the office? No problem. Just click the button at anytime..
+        /// </summary>
+        public static string TourMatchesBodyText3 {
+            get {
+                return ResourceManager.GetString("TourMatchesBodyText3", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Pause matches whenever you need. Too busy that week? Out of the office? No problem. Just click the button at anytime..
+        /// </summary>
+        public static string TourMatchesBodyText4 {
+            get {
+                return ResourceManager.GetString("TourMatchesBodyText4", resourceCulture);
+            }
+        }
         
         /// <summary>
         ///   Looks up a localized string similar to Easily pause matches as needed.
@@ -336,6 +363,51 @@ namespace Icebreaker.Properties {
         public static string TourMatchesHeaderText {
             get {
                 return ResourceManager.GetString("TourMatchesHeaderText", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Icebreaker uses information from your account.
+        /// </summary>
+        public static string TourYourInfoHeaderText {
+            get {
+                return ResourceManager.GetString("TourYourInfoHeaderText", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Icebreaker uses information from your account.
+        /// </summary>
+        public static string TourYourInfoBodyText {
+            get {
+                return ResourceManager.GetString("TourYourInfoBodyText", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Icebreaker uses information from your account.
+        /// </summary>
+        public static string TourYourInfoBodyText2 {
+            get {
+                return ResourceManager.GetString("TourYourInfoBodyText2", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Want to opt out
+        /// </summary>
+        public static string TourOptoutHeaderText {
+            get {
+                return ResourceManager.GetString("TourOptoutHeaderText", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to You can opt out of
+        /// </summary>
+        public static string TourOptoutBodyText {
+            get {
+                return ResourceManager.GetString("TourOptoutBodyText", resourceCulture);
             }
         }
         

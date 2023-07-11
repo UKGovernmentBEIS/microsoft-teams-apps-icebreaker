@@ -110,12 +110,62 @@
             <p class="regular-content">
                 @(Resources.TourMatchesBodyText)
             </p>
+            <p class="regular-content">
+                @(Resources.TourMatchesBodyText2)
+            </p>
+            <p class="regular-content">
+                @(Resources.TourMatchesBodyText3)
+            </p>
+            <p class="regular-content">
+                @(Resources.TourMatchesBodyText4)
+            </p>
+        </div>
+        <div class="footer">
+            <button class="primary-button" onclick="ShowDivOnClick('yourInfoDiv', 'matchesDiv')">
+                @(Resources.NextButtonText)
+            </button>
+            <button class="secondary-button" onclick="ShowDivOnClick('introDiv', 'matchesDiv')">
+                @(Resources.BackButtonText)
+            </button>
+        </div>
+    </div>
+    <div id="yourInfoDiv" class="surface">
+        <div class="imageDiv">
+            <img src="/Content/welcome-dialog.png" alt="@(Resources.TourWelcomeImageAltText)" />
+        </div>
+        <div class="textDiv">
+            <p class="bold-header">@(Resources.TourYourInfoHeaderText)</p>
+            <p class="regular-content">
+                @(Resources.TourYourInfoBodyText)
+            </p>
+            <p class="regular-content">
+                @(Resources.TourYourInfoBodyText2)
+            </p>
+        </div>
+        <div class="footer">
+            <button class="primary-button" onclick="ShowDivOnClick('optoutDiv', 'yourInfoDiv')">
+                @(Resources.NextButtonText)
+            </button>
+            <button class="secondary-button" onclick="ShowDivOnClick('matchesDiv', 'yourInfoDiv')">
+                @(Resources.BackButtonText)
+            </button>
+        </div>
+    </div>
+    <div id="optoutDiv" class="surface">
+        <div class="imageDiv">
+            <img src="/Content/welcome-dialog.png" alt="@(Resources.TourWelcomeImageAltText)" />
+        </div>
+        <div class="textDiv">
+            <p class="bold-header">@(Resources.TourOptoutHeaderText)</p>
+            <p class="regular-content">
+                @(Resources.TourOptoutBodyText)
+            </p>
         </div>
         <div class="footer">
             <button class="primary-button" onclick="CloseWindow()">
                 @(Resources.DoneButtonText)
             </button>
-            <button class="secondary-button" onclick="ShowDivOnClick('introDiv', 'matchesDiv')">
+            <button class="secondary-button" onclick="ShowDivOnClick('yourInfoDiv', 'optoutDiv')">
                 @(Resources.BackButtonText)
             </button>
         </div>
