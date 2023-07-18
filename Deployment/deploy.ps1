@@ -427,7 +427,7 @@ function GenerateAppManifestPackage {
 
         # Generate zip archive 
         $compressManifest = @{
-            LiteralPath      = "..\manifest\color.png", "..\manifest\outline.png", $sourceManifestPath
+            LiteralPath      = "..\manifest\color.png", "..\manifest\outline.png", $sourceManifestPath, "..\manifest\ar.json", "..\manifest\de.json", "..\manifest\en.json", "..\manifest\es.json", "..\manifest\fr.json", "..\manifest\he.json", "..\manifest\ja.json", "..\manifest\ko.json", "..\manifest\pt-BR.json", "..\manifest\ru.json", "..\manifest\zh-CN.json", "..\manifest\zn-TW.json"
             CompressionLevel = "Fastest"
             DestinationPath  = $destinationZipPath
         }
