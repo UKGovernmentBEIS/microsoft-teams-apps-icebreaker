@@ -1,0 +1,17 @@
+.vscode/settings.json
+**/*.csv
+**/*.tmp
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Tt]emp/
+[Tt]mp/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
